@@ -1,0 +1,15 @@
+Lahore,Pakistan
+Dubai,UAE
+Melbourn,Australia
+Berlin,Germany
+Beirut,Lebanon
+Budapest,Hungary
+Harare,Zimbabwe
+BANGKOK,Thailand
+BOGOTA,Colombia
+St Petersburg,Russia
+Pusan,South Korea
+Malang,Indonesia
+Casablanca,Morocco
+PYONGYANG,North Korea
+ROMA,Italy

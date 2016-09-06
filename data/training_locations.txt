@@ -1,0 +1,18 @@
+Tokyo,Japan
+New York,USA
+Sao Paulo,Brazil
+Manila,Philippines
+Delhi,India
+Jakarta,Indonesia
+Lagos,Nigeria
+Cairo,Egypt
+Los Angeles,USA
+Buenos Aires,Argentina
+Moscow,Russia
+Shanghai,China
+Sydney,Australia
+Karachi,Pakistan
+Johannesburg,South Africa
+Toronto,Canada
+Frankfurt,Germany
+San Francisco,USA
